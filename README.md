@@ -7,15 +7,15 @@ https://colab.research.google.com/drive/1b8yw6yw0Af8W-4Jp3nft8xjFixgxiGrj?usp=dr
 
 - [ ] ЯКласс
   - [ ] Тренировка №1 перед тестированием по цифровой грамотности студентов "КОД УСПЕХА"
-  - [ ] ![image](https://github.com/user-attachments/assets/3c88d7e7-ed12-4705-9b8d-8604a86baa29)
+ ![image](https://github.com/user-attachments/assets/3c88d7e7-ed12-4705-9b8d-8604a86baa29)
   - [ ] Тренировка № 2 перед тестированием по цифровой грамотности студентов "КОД УСПЕХА"
-  - [ ] ![image](https://github.com/user-attachments/assets/2fb1c578-00a7-4546-8641-4801514e79f7)
+ ![image](https://github.com/user-attachments/assets/2fb1c578-00a7-4546-8641-4801514e79f7)
   - [ ] Тренировка перед олимпиадой по функциональной грамотности студентов. Читательская грамотность.
-  - [ ] ![image](https://github.com/user-attachments/assets/8717987c-f3ec-428e-a14b-e091f8ee4113)
+![image](https://github.com/user-attachments/assets/8717987c-f3ec-428e-a14b-e091f8ee4113)
   - [ ] Тренировка перед олимпиадой по функциональной грамотности студентов.Математическая грамотность
-  - [ ] ![image](https://github.com/user-attachments/assets/5b5e2787-aacb-47fc-8f6e-346e6ab475b0)
+ ![image](https://github.com/user-attachments/assets/5b5e2787-aacb-47fc-8f6e-346e6ab475b0)
   - [ ] Понятие алгоритма и основные алгоритмические структуры
-  - [ ] ![image](https://github.com/user-attachments/assets/d687c462-4a76-4ab1-8989-19f64e98e0f8)
+![image](https://github.com/user-attachments/assets/d687c462-4a76-4ab1-8989-19f64e98e0f8)
 
 
 - [ ] Проверка пароля
@@ -47,5 +47,5 @@ https://colab.research.google.com/drive/1b8yw6yw0Af8W-4Jp3nft8xjFixgxiGrj?usp=dr
 
 
 - [ ] Сертификаты
-  
+  https://drive.google.com/drive/folders/12eVQ-M4uGqyEKJpRYYtG0TizjwOmiww5?usp=drive_link
 
