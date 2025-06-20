@@ -37,7 +37,7 @@ https://colab.research.google.com/drive/1b8yw6yw0Af8W-4Jp3nft8xjFixgxiGrj?usp=dr
 - [ ] [Практическая работа 2](https://docs.google.com/document/d/1dzM9XGKnbI2l7M4dGV9a_GK-ZCx_jd5DfcYMUDcrkSA/edit?usp=drive_link)
 - [ ] [Очистка директории](https://docs.google.com/document/d/17bLD58OTi1iKopL-jzKLAGa1my-c5ur5UkgNemUb_5w/edit?usp=sharing)
 - [ ] [Графики на gnuplot: 4 2д графика и один 3д график](https://docs.google.com/document/d/1BPn0yjEEySVQLN5RUsIbeW744bKYTIbR1uhvflEpIhg/edit?usp=drive_link)
-- [ ] [Порядок действий для смены пароля]
+- [ ] [Порядок действий для смены пароля](https://docs.google.com/document/d/1kpoX6yOs_0OaJXaX2hd4eB1Ncab0Rg16hw57ZvBg0Tg/edit?usp=sharing)
 
 ## Участие в техникуме (саморазвитие) 
 - [ ] [акция «Правнуки Победы»](https://t.me/luberteh/6804) ![image](https://github.com/user-attachments/assets/fcec8cb2-5f06-4b57-b61b-67951f1979be)
